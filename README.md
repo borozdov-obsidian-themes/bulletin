@@ -41,10 +41,14 @@ for what matters.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Bulletin**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Ember**. Install Borozdov Ember under Settings → Appearance → Themes → Manage, then the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and choose
+**Bulletin** under Style Settings → Borozdov Ember → Variant. The variant brings this
+theme's palette, type and corners; its own layout, and its embedded font if it has one,
+come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the [latest
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the [latest
 release](https://github.com/borozdov-obsidian-themes/bulletin/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Bulletin/`, then choose Borozdov Bulletin under
 Settings → Appearance → Themes.
@@ -59,5 +63,4 @@ MIT — see [LICENSE](LICENSE).
 обсерватория данных на тёплой бумаге, и тёмный «Deadline» — та же редакция после сдачи
 номера в печать. Монохромные карточки данных, заголовки вполголоса и один цвет
 раскалённого апельсина для того, что действительно важно. Шрифты не встроены.
-Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov
-Bulletin → Установить и применить.
+В каталоге тема живёт вариантом Borozdov Ember: установите Borozdov Ember и плагин Style Settings, затем выберите Bulletin в Style Settings → Borozdov Ember → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
